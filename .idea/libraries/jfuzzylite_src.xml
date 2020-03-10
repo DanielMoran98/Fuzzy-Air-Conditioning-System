@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfuzzylite-src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../jfuzzylite-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

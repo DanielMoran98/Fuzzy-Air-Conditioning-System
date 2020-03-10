@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="controlP5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../controlP5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../jfuzzylite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../jfuzzylite-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
